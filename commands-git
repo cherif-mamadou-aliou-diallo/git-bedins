@@ -2,3 +2,4 @@ git push master
 git push <remote> <branche>
 git clone
 git push --all
+git pull
